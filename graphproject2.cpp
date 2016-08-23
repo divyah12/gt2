@@ -1,5 +1,5 @@
 /*
-Name : Divyashree Hanaganhalli Boregowda
+
 Roster No. : 5
 The following program provides a minimum spanning tree using kruskals algorithm.
 Output : In console, the minimun edge's are printed out and a dot file is generated.
